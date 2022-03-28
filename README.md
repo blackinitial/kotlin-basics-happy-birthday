@@ -1,5 +1,8 @@
-# kotlin-basics-happy-birthday
-Learn Android Kotlin Basics
+# Build a basic layout
+Learn how to add images and text to your Android apps.
 
-## Unit 1: Kotlin basics
-https://developer.android.com/courses/android-basics-kotlin/unit-1
+- [x] Create an Android app that displays text, using the Layout Editor in Android Studio.
+- [x] Learn how to add and display images in your app using an ImageView.
+
+## TRAINING > ANDROID BASICS IN KOTLIN > KOTLIN BASICS > BASIC LAYOUT
+https://developer.android.com/courses/pathways/android-basics-kotlin-three
